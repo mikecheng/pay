@@ -1,2 +1,2 @@
 # pay
-支付扩展
+Payment extension package
